@@ -25,15 +25,9 @@ Professional Web Developer focused on clean, scalable, and efficient solutions.
 ---
 ## 🛠 Skills
 
-PHP
-<progress value="80" max="100"></progress>
-
-HTML
-<progress value="100" max="100"></progress>
-
-CSS
-<progress value="98" max="100"></progress>
-
+- PHP — ████████████████░░░░ 80%
+- HTML — ████████████████████ 100%
+- CSS — ███████████████████░░ 98%
 
 ## 🌐 Links
 - 🔗 Website: https://sajji.ir
