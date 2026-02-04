@@ -23,6 +23,12 @@ Professional Web Developer focused on clean, scalable, and efficient solutions.
 - **Fields:** Website Design, Automation, Bots  
 
 ---
+## 🛠 Skills
+
+![PHP](https://progress-bar.dev/80/?title=PHP&width=300)
+![HTML](https://progress-bar.dev/100/?title=HTML&width=300)
+![CSS](https://progress-bar.dev/98/?title=CSS&width=300)
+
 
 ## 🌐 Links
 - 🔗 Website: https://sajji.ir
