@@ -14,20 +14,15 @@ Professional Web Developer focused on clean, scalable, and efficient solutions.
 
 ## 🛠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=php,html,css,git,linux" />
+  <img src="https://skillicons.dev/icons?i=php,html,css,git" />
 </p>
 
 - **Backend:** PHP  
 - **Frontend:** HTML, CSS  
-- **Tools:** Git, Linux  
+- **Tools:** Git
 - **Fields:** Website Design, Automation, Bots  
 
 ---
-## 🛠 Skills
-
-- PHP — ████████████████░░░░ 80%
-- HTML — ████████████████████ 100%
-- CSS — ███████████████████░░ 98%
 
 ## 🌐 Links
 - 🔗 Website: https://sajji.ir
