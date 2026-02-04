@@ -25,9 +25,14 @@ Professional Web Developer focused on clean, scalable, and efficient solutions.
 ---
 ## 🛠 Skills
 
-![PHP](https://progress-bar.dev/80/?title=PHP&width=300)
-![HTML](https://progress-bar.dev/100/?title=HTML&width=300)
-![CSS](https://progress-bar.dev/98/?title=CSS&width=300)
+PHP
+<progress value="80" max="100"></progress>
+
+HTML
+<progress value="100" max="100"></progress>
+
+CSS
+<progress value="98" max="100"></progress>
 
 
 ## 🌐 Links
