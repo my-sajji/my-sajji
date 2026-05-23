@@ -26,7 +26,7 @@ Professional Web Developer focused on clean, scalable, and efficient solutions.
 
 ## 🌐 Links
 - 🔗 Website: https://sajji.ir
-- 📧 Email: im.sajadfun.ir@gmail.com
+- 📧 Email: info@sajji.ir
 
 ---
 
