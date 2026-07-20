@@ -5,8 +5,7 @@ Professional Web Developer focused on clean, scalable, and efficient solutions.
 ---
 
 ## 💼 About Me
-- 💻 Backend & Web Developer
-- 🌐 Specialized in Website Design & Development
+- 💻 Backend Developer
 - 🤖 Bot Developer
 - ⚙️ Strong interest in automation and smart systems
 
@@ -14,13 +13,12 @@ Professional Web Developer focused on clean, scalable, and efficient solutions.
 
 ## 🛠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=php,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=php,python,git" />
 </p>
 
-- **Backend:** PHP  
-- **Frontend:** HTML, CSS  
+- **Backend:** PHP - python
 - **Tools:** Git
-- **Fields:** Website Design, Automation, Bots  
+- **Fields:** Automation, Bots  
 
 ---
 
